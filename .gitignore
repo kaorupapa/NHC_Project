@@ -41,3 +41,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# /로 끝나면 해당 디렉토리 전체를 무시
+Library/
